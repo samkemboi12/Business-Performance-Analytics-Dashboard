@@ -16,15 +16,6 @@ The project transforms raw transactional customer data into:
 - **Power BI executive dashboards**
 - **stakeholder ready PowerPoint storytelling**
 - **strategic recommendations for growth**
-
-This is designed as a **decision support analytics case study** relevant to:
-- Retail analytics
-- Product analytics
-- Customer intelligence
-- Growth strategy
-- CRM optimization
-- Subscription business models
-
 ---
 ## Business Problem
 
