@@ -53,6 +53,8 @@ This is designed as a **decision-support analytics case study** relevant to:
 - Subscription business models
 
 ---
+<img width="900" height="506" alt="image" src="https://github.com/user-attachments/assets/abf2a64d-90fe-479d-b927-fde8c41310a9" />
+
 
 ## 🎯 Business Problem
 
