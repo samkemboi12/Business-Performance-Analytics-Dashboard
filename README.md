@@ -36,24 +36,7 @@ Without this visibility, pricing, campaigns, and retention strategies risk being
 ## Dashboard Overview
 ### Executive Overview
 Provides a high-level summary of business performance, including revenue trends, profit contribution, and core KPI monitoring for executive stakeholders.
-<img width="904" height="499" alt="image" src="https://github.com/user-attachments/assets/36fda399-7f85-415e-94d4-5c73f14c58ea" />
-
-### Customer & Loyalty Insights
-
-Focuses on customer retention, loyalty program engagement, repeat purchase behavior, and segmentation analysis.
-<img width="914" height="510" alt="image" src="https://github.com/user-attachments/assets/4615bbc6-91d8-45db-adcc-d23360f59114" />
-### Subscription & Revenue Trends
-
-Tracks subscription growth, renewals, cancellations, churn behavior, and revenue contribution across customer segments.
-<img width="904" height="502" alt="image" src="https://github.com/user-attachments/assets/2390e7de-e5a5-4a0b-b30c-a6702e9daf5e" />
-
-## Product Experience
-
-Highlights product usage patterns, engagement metrics, customer preferences, and product-level performance insights.
-<img width="904" height="506" alt="image" src="https://github.com/user-attachments/assets/41d4a649-baa8-426f-a79a-25162461d956" />
-
-
-
+<img width="804" height="399" alt="image" src="https://github.com/user-attachments/assets/36fda399-7f85-415e-94d4-5c73f14c58ea" />
 
 ## Business Objectives
 
