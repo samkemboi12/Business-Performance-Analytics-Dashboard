@@ -10,6 +10,7 @@ This project analyzes **customer purchase records** to identify the most importa
 - Product satisfaction
 - Product demand
 - Customer lifecycle behavior
+
 The project transforms raw transactional customer data into:
 - **SQL driven business answers**
 - **Power BI executive dashboards**
