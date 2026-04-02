@@ -36,7 +36,7 @@ Without this visibility, pricing, campaigns, and retention strategies risk being
 ## Dashboard Overview
 ### Executive Overview
 Provides a high-level summary of business performance, including revenue trends, profit contribution, and core KPI monitoring for executive stakeholders.
-[Click here to download Power BI Dashboard](./Power%20BI%20Dahsboard.pbix)
+[Click here to download Power BI Dashboard](./Power%20BI%20Dashboard.pbix)
 
 <img width="804" height="399" alt="image" src="https://github.com/user-attachments/assets/36fda399-7f85-415e-94d4-5c73f14c58ea" />
 
