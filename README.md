@@ -111,8 +111,27 @@ customer-behavior-analytics/
 │
 ├── images/
 │   ├── dashboard_overview.png
-│   ├── executive_summary_slide.png
-│   ├── customer_segments.png
-│   └── subscription_analysis.png
 │
 └── README.md
+
+## How to Use This Project
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone <https://github.com/samkemboi12/Business-Performance-Analytics-Dashboard.git>
+   ```
+
+2. Review `cx.sql` to understand the SQL logic behind customer revenue, discount, loyalty, and subscription analysis.
+
+3. Download and open the **Power BI dashboard (`.pbix`)** to interact with KPI trends, customer segments, product performance, and retention insights.
+
+4. Use the **presentation slides (`.pptx`)** for an executive-ready summary of findings and strategic recommendations.
+
+5. Apply the dashboard slicers and filters to explore results by demographic, product category, subscription status, and customer lifecycle stage.
+
+## Contact
+
+For more information or to discuss this project, data analytics opportunities, or dashboard development, please reach out:
+
+**[samkemboi201@gmail.com](mailto:samkemboi201@gmail.com)**
