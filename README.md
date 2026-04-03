@@ -113,14 +113,13 @@ customer-behavior-analytics/
 │   ├── dashboard_overview.png
 │
 └── README.md
+```
 
 ## How to Use This Project
 
 1. Clone the repository to your local machine:
 
-   ```bash
    git clone <https://github.com/samkemboi12/Business-Performance-Analytics-Dashboard.git>
-   ```
 
 2. Review `cx.sql` to understand the SQL logic behind customer revenue, discount, loyalty, and subscription analysis.
 
