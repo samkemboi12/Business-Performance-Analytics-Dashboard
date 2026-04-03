@@ -90,21 +90,12 @@ customer-behavior-analytics/
 ├── data/
 │   └── cx.csv
 │
-├── sql/
-│   ├── q1_revenue_by_gender.sql
-│   ├── q2_discounted_above_average.sql
-│   ├── q3_top_rated_products.sql
-│   ├── q4_shipping_comparison.sql
-│   ├── q5_subscription_performance.sql
-│   ├── q6_discount_rate_by_product.sql
-│   ├── q7_customer_segments.sql
-│   ├── q8_top_products_by_category.sql
-│   ├── q9_repeat_buyer_subscription.sql
-│   └── q10_revenue_by_age_group.sql
+├── Sql Scripts/
+│   ├── Business Questions Analysis.sql
 │
 ├── dashboard/
-│   ├── customer_behavior_dashboard.pbix
-│   └── screenshots/
+│   ├── Power BI dashboard.pbix
+
 │
 ├── reports/
 │   ├── executive_report.md
