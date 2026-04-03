@@ -53,6 +53,14 @@ The main objective is to support leadership with **data driven decisions** aroun
 7. Power BI executive dashboarding
 
 ---
+
+## Key Insights
+* **Revenue concentration:** Male customers contributed 67.74% of total revenue, showing stronger commercial performance than female customers and highlighting a key audience for targeted growth.
+* **Discount efficiency risk:** 50.03% of discounted purchases were still above average spend, suggesting blanket promotions may be reducing margin on already high-value orders.
+* **Subscription underperformance:** Subscribers represented 27.00% of customers but showed no meaningful spend lift compared to non-subscribers, indicating the current program is not increasing basket value.
+* **Strong retention profile:** The customer base is heavily retention driven, with 79.90% classified as loyal buyers, confirming strong repeat purchase behavior but limited acquisition of new customers.
+* Weak subscription conversion among repeat buyers: Repeat customers only showed a +0.56 percentage point lift in subscription adoption, revealing an untapped conversion opportunity.
+* **Core revenue demographic:** Customers aged 26–65 contributed the largest revenue share, with the 46–55 segment leading at 19.57%, making this the most commercially valuable age group.
 ---
 
 ## Tools & Technologies
